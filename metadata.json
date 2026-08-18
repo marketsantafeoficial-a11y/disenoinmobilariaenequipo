@@ -1,0 +1,6 @@
+{
+  "name": "Inmobiliaria en Equipo - InmoCRM",
+  "description": "Landing page interactiva y responsive para Inmobiliaria en Equipo / InmoCRM con matching automático, ronda de negocios, radar de demanda y prueba gratuita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
